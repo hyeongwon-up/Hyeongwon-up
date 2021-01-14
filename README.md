@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+| **Type** | **Date** | **Contents** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **Education** | ~ing | Department of CSE | **Seoul National University of Science and Technology** |
+| **Research activities** | 2020. 09 ~  | Undergraduate Research Students | **SNUST. Software Engineering Lab** |
+

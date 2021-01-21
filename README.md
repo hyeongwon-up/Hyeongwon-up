@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 | **Education** | ~ing | Department of CSE | **Seoul National University of Science and Technology** |
 | **Research activities** | 2020. 09 ~  | Undergraduate Research Students | **SNUST. Software Engineering Lab** |
 
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeongwon-up&layout=compact)
+

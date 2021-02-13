@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | ~ing | Department of CSE | **Seoul National University of Science and Technology** |
 | **Research activities** | 2020. 09 ~  | Undergraduate Research Students | **SNUST. Software Engineering Lab** |
-| **Internship** | 2021. 03 ~  | Artificial Intelligence Research Institute (AIRI) . Department of Finance AI | **SNUST. Software Engineering Lab** |
+| **Internship** | 2021. 03 ~  |  Department of Finance AI | **Artificial Intelligence Research Institute (AIRI)** |
 
 
 

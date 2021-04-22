@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | ~ing | Department of CSE | **Seoul National University of Science and Technology** |
-| **Research activities** | 2020. 09 ~  | Undergraduate Research Students | **SNUST. Software Engineering Lab** |
+| **Research activities** | 2020. 09 ~  2021. 02| Undergraduate Research Students | **SNUST. Software Engineering Lab** |
 | **Internship** | 2021. 03 ~  |  Department of Finance AI | **Artificial Intelligence Research Institute (AIRI)** |
 
 

@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 | **Education** | ~ing | Department of CSE | **Seoul National University of Science and Technology** |
 | **Research activities** | 20. 09 ~  21. 02 | Undergraduate Research Students | **SNUST. Software Engineering Lab** |
 | **Internship** | 21. 03 ~ 21. 07  |  Department of Finance AI | **Artificial Intelligence Research Institute (AIRI)** |
+| **External activities** | 21. 08 ~  |  Bithumb Tech Academy - Server Backend | **Bithumb** |
+
 
 
 

@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | ~ing | Department of CSE | **Seoul National University of Science and Technology** |
+| **Internship** | 20. 07 ~  20. 08 | Visualize Data  | **POSCO ICT** |
 | **TA** | 20. 09 ~  20. 12 | "Computational Thinking" - Teaching Assistant | **SNUST. Department of CSE** |
 | **Research activities** | 20. 09 ~  21. 02 | Undergraduate Research Students | **SNUST. Software Engineering Lab** |
 | **Internship** | 21. 03 ~ 21. 07  |  Department of Finance AI | **Artificial Intelligence Research Institute (AIRI)** |

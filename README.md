@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 | **Research activities** | 20. 09 ~  21. 02 | Undergraduate Research Students | **SNUST. Software Engineering Lab** |
 | **Internship** | 21. 03 ~ 21. 07  |  Department of Finance AI | **Artificial Intelligence Research Institute (AIRI)** |
 | **External activities** | 21. 08 ~ 21.10 |  Bithumb Tech Academy - Server Backend | **Bithumb Korea** |
+| **Employment** | 22. 01 ~ 22.03 | Backend Engineer | **Dunamu-FD** |
+| **External activities** | 22. 02 ~ 22. 03 |  Bithumb Tech Camp - BlockChain Course | **Bithumb Korea** |
+
+
 
 
 

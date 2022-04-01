@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 | **External activities** | 21. 08 ~ 21.10 |  Bithumb Tech Academy - Server Backend | **Bithumb Korea** |
 | **Employment** | 22. 01 ~ 22.03 | Backend Engineer | **Dunamu-FD** |
 | **External activities** | 22. 02 ~ 22. 03 |  Bithumb Tech Camp - BlockChain Course | **Bithumb Korea** |
-| **Employment** | 22. 03 | Reg Tech Team | **Lambda256** |
+| **Employment** | 22. 03 | Department of Reg Tech | **Lambda256** |
 
 
 

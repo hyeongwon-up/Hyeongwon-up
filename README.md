@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 | **Employment** | 22. 01 ~ 22.03 | Backend Engineer | **Dunamu-FD** |
 | **External activities** | 22. 02 ~ 22. 03 |  Bithumb Tech Camp - BlockChain Course | **Bithumb Korea** |
 | **Employment** | 22. 03 ~ ing | RegTech Team - BlockChain Backend Engineer | **Lambda256 of Dunamu** |
-| **External activities** | 22. 10 ~ |  Woowa Tech Camp - Pro Course | **Woowa Bros** |
+| **External activities** | 22. 10 ~ |  Woowahan Tech Camp - Pro Course | **Woowa Brothers** |
 
 
 

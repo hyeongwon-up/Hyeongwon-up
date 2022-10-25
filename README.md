@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Education** | 15. 03 ~ 22.02 | Department of CSE | **SNUST** |
+| **Education** | 15. 03 ~ 22.02 | Department of CSE | **Seoul National University Of Science and Technology** |
 | **Internship** | 20. 07 ~  20. 08 | Visualize Data  | **POSCO ICT** |
 | **TA** | 20. 09 ~  20. 12 | "Computational Thinking" - TA | **SNUST. Department of CSE** |
 | **Research activities** | 20. 09 ~  21. 02 | Undergraduate Research Students | **SNUST. Software Engineering Lab** |

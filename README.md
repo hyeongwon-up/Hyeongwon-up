@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | **External activities** | 22. 02 ~ 22. 03 |  Bithumb Tech Camp - BlockChain Course | **Bithumb Korea** |
 | **Employment** | 22. 03 ~ ing | BlockChain Backend Engineer | **Lambda256 of Dunamu** |
 | **External activities** | 22. 10 ~ 22.12 |  Woowahan Tech Camp - Pro Course | **Woowa Brothers** |
-| **External activities** | 23. 04 ~ ing |  Toss Study Club | **Toss** |
+| **External activities** | 23. 04 ~ ing |  Toss Study Club | **Toss - Viva Republica** |
 
 
 

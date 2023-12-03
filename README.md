@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 | **External activities** | 21. 08 ~ 21.10 |  Bithumb Tech Academy - Server Backend | **Bithumb Korea** |
 | **Employment** | 22. 01 ~ 22.03 | Backend Engineer | **Dunamu-FD** |
 | **External activities** | 22. 02 ~ 22. 03 |  Bithumb Tech Camp - BlockChain Course | **Bithumb Korea** |
-| **Employment** | 22. 03 ~ ing | BlockChain Backend Engineer | **Lambda256 of Dunamu** |
 | **External activities** | 22. 10 ~ 22.12 |  Woowahan Tech Camp - Pro Course | **Woowa Brothers** |
 | **External activities** | 23. 04 ~ 23.06 | Toss Study Club | **Toss** |
+| **Employment** | 22. 03 ~ 23.11 | BlockChain Backend Engineer | **Lambda256 of Dunamu** |
+| **Employment** | 23. 12 ~ ing |  Backend Engineer | **KakaoBank** |
 
 
 
